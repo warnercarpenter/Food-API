@@ -1,0 +1,32 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Lasagna",
+      "category": "Pasta",
+      "ethnicity": "Italian",
+      "barcode": "0011110111432"
+    },
+    {
+      "id": 2,
+      "name": "Quesadilla",
+      "category": "Tortilla food",
+      "ethnicity": "Mexican",
+      "barcode": "0015400807852"
+    },
+    {
+      "id": 3,
+      "name": "Pizza",
+      "category": "Lots of calories",
+      "ethnicity": "Italian",
+      "barcode": "3270160717323"
+    },
+    {
+      "name": "Ramen",
+      "category": "Soup",
+      "ethnicity": "Japanese",
+      "barcode": "8712429350209",
+      "id": 5
+    }
+  ]
+}
