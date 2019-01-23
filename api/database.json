@@ -10,22 +10,22 @@
     {
       "id": 2,
       "name": "Quesadilla",
-      "category": "Tortilla food",
+      "category": "Best ever",
       "ethnicity": "Mexican",
       "barcode": "0015400807852"
     },
     {
       "id": 3,
       "name": "Pizza",
-      "category": "Lots of calories",
+      "category": "Diabetes",
       "ethnicity": "Italian",
-      "barcode": "3270160717323"
+      "barcode": "0071921377601"
     },
     {
       "name": "Ramen",
       "category": "Soup",
       "ethnicity": "Japanese",
-      "barcode": "8712429350209",
+      "barcode": "00070662455029",
       "id": 5
     }
   ]

@@ -1,3 +1,11 @@
+.goog-te-banner-frame {
+    display: none
+}
+
+#google_translate_element{
+    display: none
+}
+
 .foodList {
     display: flex;
     flex-direction: row;
